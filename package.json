@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@gravity-ui/components": "^3.7.0",
+    "@gravity-ui/uikit": "^6.20.1"
   }
 }

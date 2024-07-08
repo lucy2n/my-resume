@@ -1,0 +1,50 @@
+.main {
+    width: 90%;
+    margin: 30px auto 0;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    gap: 5px
+}
+
+.title {
+    text-transform: uppercase;
+    font-family: 'TT Commons';
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.point {
+    text-transform: uppercase;
+    font-family: 'TT Commons';
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.point:hover {
+    transition: 0.1s;
+    -webkit-transform: rotateZ(20deg);
+    -ms-transform: rotateZ(20deg);
+    transform: rotateZ(20deg);
+    color: #DB7093;
+}
+
+.buttons {
+   display: flex;
+   justify-content: space-between;
+}
+
+.button {
+    text-transform: uppercase;
+    font-family: 'TT Commons';
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.button:hover {
+    border-bottom: 1px solid black;
+}

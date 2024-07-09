@@ -7,6 +7,7 @@
 }
 
 .logo {
+    cursor: pointer;
     display: flex;
     gap: 5px
 }
@@ -19,14 +20,15 @@
 }
 
 .point {
+    transition: 0.2s;
     text-transform: uppercase;
     font-family: 'TT Commons';
     font-weight: 700;
     font-size: 30px;
 }
 
-.point:hover {
-    transition: 0.1s;
+.logo:hover .point {
+    transition: 0.2s;
     -webkit-transform: rotateZ(20deg);
     -ms-transform: rotateZ(20deg);
     transform: rotateZ(20deg);
@@ -42,7 +44,7 @@
     text-transform: uppercase;
     font-family: 'TT Commons';
     font-weight: 500;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .button:hover {

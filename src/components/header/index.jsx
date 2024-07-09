@@ -14,7 +14,7 @@ const Header = () => {
                 <Button className={style.button}>Russian</Button>
             </div>
         </div>
-    )
-}
+    );
+};
 
 export default Header;

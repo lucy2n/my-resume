@@ -1,0 +1,67 @@
+.main {
+    width: 90%;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image_block {
+    transition: 0.3s;
+    width: 500px;
+    height: 500px;
+    border-radius: 90%;
+    overflow: hidden;
+    border: 2px solid black;
+}
+
+.main:hover .image_block {
+    transition: 0.3s;
+    box-shadow: 20px 20px 40px #85FFB3;
+}
+
+.main:hover .title {
+    transition: 0.3s;
+    text-shadow: 2px 2px 3px #DB7093;
+}
+
+.image {
+    transition: 0.3s;
+    width: 100%;
+    height: auto ;
+    transform: scale(1.5);
+}
+
+.flex {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+.image_block > .image  {
+    display: block;
+    margin-top: -270px;
+    margin-left: -30px;
+}
+
+.title {
+    transition: 0.3s;
+    margin: 0;
+    padding: 0 0 10px 0;
+    border-bottom: 1px black dashed;
+    font-size: 70px;
+    line-height: 100%;
+    text-align: start;
+    font-family: 'TT Commons';
+    font-weight: 900;
+
+}
+
+.desc {
+    padding: 0;
+    font-size: 20px;
+    line-height: 120%;
+    text-align: start;
+    font-family: 'TT Commons';
+    font-weight: 400;
+}

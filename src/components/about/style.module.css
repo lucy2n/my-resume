@@ -17,12 +17,12 @@
 
 .main:hover .image_block {
     transition: 0.3s;
-    box-shadow: 20px 20px 40px #85FFB3;
+    box-shadow: 20px 30px 60px #85FFB3;
 }
 
 .main:hover .title {
     transition: 0.3s;
-    text-shadow: 2px 2px 3px #DB7093;
+    text-shadow: 2px 3px 5px #DB7093;
 }
 
 .image {

@@ -29,7 +29,13 @@ const Info = () => {
                 Cypress
             </p>
             <p className={style.text}>
+                NodeJs
+            </p>
+            <p className={style.text}>
                 Webpack
+            </p>
+            <p className={style.text}>
+                Figma
             </p>
         </div>
     );

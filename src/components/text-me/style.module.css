@@ -8,6 +8,13 @@
     align-items: start;
     border-radius: 20px;
     border: 2px solid black;
+    transition: 0.5s;
+}
+
+.main:hover {
+    transition: 0.5s;
+    background-color: #bef3d2;
+    border: 2px dashed black;
 }
 
 .title {

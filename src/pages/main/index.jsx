@@ -2,6 +2,7 @@ import React , {useState, useEffect, useRef} from 'react';
 import Header from '../../components/header';
 import About from '../../components/about';
 import style from './style.module.css';
+import Info from '../../components/info';
 
 const MainPage = () => {
     const [isInView, setIsInView] = useState(false);
@@ -28,6 +29,7 @@ const MainPage = () => {
         <div>
             <Header />
             <About ref={targetRef} className={isInView ? style.image_block_active : ''} />
+            <Info />
         </div>
     );
 };

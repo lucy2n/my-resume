@@ -1,0 +1,20 @@
+.main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+    background-color: #85FFB3;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    gap: 20px
+}
+
+.text {
+    text-transform: uppercase;
+    padding: 0;
+    font-size: 20px;
+    line-height: 120%;
+    text-align: start;
+    font-family: 'TT Commons';
+    font-weight: 500;
+}

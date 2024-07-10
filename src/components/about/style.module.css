@@ -20,7 +20,13 @@
     box-shadow: 20px 20px 40px #85FFB3;
 }
 
+.main:hover .title {
+    transition: 0.3s;
+    text-shadow: 2px 2px 3px #DB7093;
+}
+
 .image {
+    transition: 0.3s;
     width: 100%;
     height: auto ;
     transform: scale(1.5);
@@ -39,10 +45,10 @@
 }
 
 .title {
+    transition: 0.3s;
     margin: 0;
     padding: 0 0 10px 0;
     border-bottom: 1px black dashed;
-    text-shadow: 2px 2px 3px #DB7093;
     font-size: 70px;
     line-height: 100%;
     text-align: start;

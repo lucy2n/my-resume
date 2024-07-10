@@ -4,6 +4,8 @@ import About from '../../components/about';
 import style from './style.module.css';
 import Info from '../../components/info';
 import Projects from '../../components/projects';
+import TextMe from '../../components/text-me';
+import Footer from '../../components/footer';
 
 const MainPage = () => {
     return (
@@ -12,6 +14,8 @@ const MainPage = () => {
             <About />
             <Info />
             <Projects />
+            <TextMe />
+            <Footer />
         </div>
     );
 };

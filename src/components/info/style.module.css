@@ -1,6 +1,7 @@
 .main {
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     margin: 10px auto;
     background-color: #85FFB3;

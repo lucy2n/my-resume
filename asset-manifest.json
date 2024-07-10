@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lucy2n/my-resume/static/css/main.d9d85c18.css",
+    "main.js": "/lucy2n/my-resume/static/js/main.db695724.js",
+    "static/js/453.422fe807.chunk.js": "/lucy2n/my-resume/static/js/453.422fe807.chunk.js",
+    "static/media/sagaart.jpg": "/lucy2n/my-resume/static/media/sagaart.46aa352b5b790d06cead.jpg",
+    "static/media/main.jpeg": "/lucy2n/my-resume/static/media/main.92b4f170712f6cb8d7ed.jpeg",
+    "static/media/Inter-Black.ttf": "/lucy2n/my-resume/static/media/Inter-Black.83d81b169bedf85385f2.ttf",
+    "static/media/TT-Commons-Bold.otf": "/lucy2n/my-resume/static/media/TT-Commons-Bold.3d86f1a76afba3f39aee.otf",
+    "static/media/TT-Commons-Medium.otf": "/lucy2n/my-resume/static/media/TT-Commons-Medium.fec750d69d7de2bf5efa.otf",
+    "static/media/TT-Commons-Regular.otf": "/lucy2n/my-resume/static/media/TT-Commons-Regular.ae5bbab36817d6276df8.otf",
+    "static/media/mesto.jpg": "/lucy2n/my-resume/static/media/mesto.4f9aa6c3b55dd348b496.jpg",
+    "static/media/ProCharity.jpg": "/lucy2n/my-resume/static/media/ProCharity.7332ff6f04a64c976bed.jpg",
+    "static/media/stellarBurger.jpg": "/lucy2n/my-resume/static/media/stellarBurger.0fe64f51b36832b6e536.jpg",
+    "static/media/email.svg": "/lucy2n/my-resume/static/media/email.2cf8522ee1c8fe6b8a5e61d04c0754a6.svg",
+    "static/media/linked.svg": "/lucy2n/my-resume/static/media/linked.c11a51dc5395675c338ae20f84fcfa75.svg",
+    "static/media/telegram.svg": "/lucy2n/my-resume/static/media/telegram.fd11c5664643c3d8d90c60fd381a4b7e.svg",
+    "index.html": "/lucy2n/my-resume/index.html",
+    "main.d9d85c18.css.map": "/lucy2n/my-resume/static/css/main.d9d85c18.css.map",
+    "main.db695724.js.map": "/lucy2n/my-resume/static/js/main.db695724.js.map",
+    "453.422fe807.chunk.js.map": "/lucy2n/my-resume/static/js/453.422fe807.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d85c18.css",
+    "static/js/main.db695724.js"
+  ]
+}

@@ -2,6 +2,7 @@ import mesto from '../../images/mesto.jpg';
 import stellar from '../../images/stellarBurger.jpg';
 import procharity from '../../images/ProCharity.jpg';
 import sagaart from '../../images/sagaart.jpg';
+import movie from '../../images/movie.png';
 
 export const projects = [
     {
@@ -17,6 +18,13 @@ export const projects = [
         desc: 'Website designer for creating an order with space burgers. Here you will need to register to place an order. And it’s just beautiful.',
         stack: 'Stack: TypeScript, React, CSS-modules, DND, Redux, Webpack.',
         link: 'https://lucy2n.github.io'
+    },
+    {
+        img: movie,
+        name: 'Movie Search',
+        desc: 'A web application for finding films and information about them.',
+        stack: 'Stack:  TypeScript. Next.js, Mantine, HTML, CSS, Webpack.',
+        link: 'https://movie-search-app-sigma-nine.vercel.app/'
     },
     {
         img: mesto,

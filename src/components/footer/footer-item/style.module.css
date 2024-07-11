@@ -1,9 +1,15 @@
 .main {
+    transition: 0.3s;
     cursor: pointer;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 5px
+}
+
+.main:hover {
+    transition: 0.3s;
+    transform: scale(1.2)
 }
 
 .img {

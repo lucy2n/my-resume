@@ -17,12 +17,12 @@ export const projects = [
         name: 'Stellar Burger',
         desc: 'Website designer for creating an order with space burgers. Here you will need to register to place an order. And it’s just beautiful.',
         stack: 'Stack: TypeScript, React, CSS-modules, DND, Redux, Webpack.',
-        link: 'https://lucy2n.github.io'
+        link: 'https://lucy2n.github.io/react-stellar-burger/'
     },
     {
         img: movie,
         name: 'Movie Search',
-        desc: 'A web application for finding films and information about them.',
+        desc: 'A web application for finding films and information about them. If you are in Russia, Belarus, you need to use a VPN.',
         stack: 'Stack:  TypeScript. Next.js, Mantine, HTML, CSS, Webpack.',
         link: 'https://movie-search-app-sigma-nine.vercel.app/'
     },

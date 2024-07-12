@@ -14,16 +14,16 @@ const TextMe = () => {
             </p>
             <ul>
                 <li className={style.desc}>
-                    React application development
+                    Developing dynamic and responsive React applications.
                 </li>
                 <li className={style.desc}>
-                    Rewrite site from JavaScript to TypeScript
+                    Proficient in building and styling user interfaces with HTML, CSS, and modern JavaScript.
                 </li>
                 <li className={style.desc}>
-                    Code accuracy 
+                    Expert in ensuring code accuracy and maintaining high coding standards.
                 </li>
                 <li className={style.desc}>
-                    And just positive vibes!
+                    Known for bringing positive energy and a collaborative attitude to every team.
                 </li>
             </ul>
             <NavLink to={'mailto:lysia.naumenko2002@gmail.com'}>

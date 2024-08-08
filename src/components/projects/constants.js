@@ -3,6 +3,7 @@ import stellar from '../../images/stellarBurger.jpg';
 import procharity from '../../images/ProCharity.jpg';
 import sagaart from '../../images/sagaart.jpg';
 import movie from '../../images/movie.png';
+import mevent from '../../images/mevent.png';
 
 export const projects = [
     {
@@ -11,6 +12,13 @@ export const projects = [
         desc: 'Service for valuation and sale of art objects.',
         stack: 'Stack: TypeScript, React, CSS-modules, GravityUI, Webpack.',
         link: 'https://sagaart.bounceme.net'
+    },
+    {
+        img: mevent,
+        name: 'Mevent',
+        desc: 'A social network focused on creating and attending events.',
+        stack: 'Stack: Tailwind, TypeScript, React, Redux, RTK Query, Vite.',
+        link: 'https://meetups-ui-6vuzexfx2q-lm.a.run.app'
     },
     {
         img: stellar,
